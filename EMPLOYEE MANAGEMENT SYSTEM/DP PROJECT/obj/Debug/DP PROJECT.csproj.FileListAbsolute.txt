@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\bin\Debug\WindowsFormsApplication58.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\WindowsFormsApplication58.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\WindowsFormsApplication58.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\WindowsFormsApplication58.IVUD.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\WindowsFormsApplication58.Login_Factory.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\WindowsFormsApplication58.MyInfo.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\WindowsFormsApplication58.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\WindowsFormsApplication58.Task.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\DP PROJECT.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\obj\Debug\DP PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\bin\Debug\WindowsFormsApplication58.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication58\WindowsFormsApplication58\bin\Debug\WindowsFormsApplication58.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\EMPLOYEE MANAGEMENT SYSTEM\DP PROJECT\bin\Debug\WindowsFormsApplication58.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\EMPLOYEE MANAGEMENT SYSTEM\DP PROJECT\obj\Debug\WindowsFormsApplication58.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\EMPLOYEE MANAGEMENT SYSTEM\DP PROJECT\obj\Debug\WindowsFormsApplication58.pdb
